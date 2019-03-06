@@ -1,0 +1,33 @@
+body {background-color: grey;
+color: black;
+font-family: 'Acme', sans-serif;
+}
+
+h1 {text-align: center;
+font: white}
+
+.notEaten { float: left;
+    padding-right: 5%;
+    border-style: solid black 1px;
+    padding-left: 5%;
+    min-height: 400px;
+}
+
+.eaten {float: left;
+padding-right: 5%;
+min-height: 400px}
+
+
+.noPadTop {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.noPadBottom {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.adding {
+    float: right;
+}
