@@ -1,4 +1,4 @@
-body {background-color: grey;
+body {background-image: linear-gradient(to left, rgb(124, 124, 124) , rgb(255, 255, 255));
 color: black;
 font-family: 'Acme', sans-serif;
 }
@@ -39,3 +39,4 @@ min-height: 400px}
 .card, .card-content, .card-action, .card-title {
     background-image: linear-gradient(to right, rgb(124, 124, 124) , rgb(255, 255, 255));
 }
+
