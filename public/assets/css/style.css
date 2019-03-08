@@ -31,3 +31,11 @@ min-height: 400px}
 .adding {
     float: right;
 }
+.btn {
+    margin-right: 10px;
+
+}
+
+.card, .card-content, .card-action, .card-title {
+    background-image: linear-gradient(to right, rgb(124, 124, 124) , rgb(255, 255, 255));
+}
